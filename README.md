@@ -4,6 +4,8 @@ An encrypted writing workspace for long form work. A rich text editor with Googl
 
 Everything you write is encrypted in your browser before it is stored. The database holds ciphertext only.
 
+Deployement = https://writehub-gray.vercel.app/login
+
 ## Running it
 
 ```bash
